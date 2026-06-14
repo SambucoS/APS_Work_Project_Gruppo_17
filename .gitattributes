@@ -1,0 +1,2 @@
+# Treat PDFs (and other binaries) as binary: no EOL conversion, no text diff.
+*.pdf binary

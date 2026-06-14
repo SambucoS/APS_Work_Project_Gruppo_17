@@ -1,0 +1,11 @@
+# Runtime-generated RSA keys (never commit private keys)
+keys/
+
+# Protocol specification (excluded from the repository on purpose)
+SPEC.md
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
